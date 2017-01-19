@@ -1,0 +1,6 @@
+[submodule "ez-robots"]
+	path = ez-robots
+	url = https://github.com/dvad924/ez-robots.git
+[submodule "Ros_Coms"]
+	path = Ros_Coms
+	url = https://github.com/dvad924/Ros_Coms.git
